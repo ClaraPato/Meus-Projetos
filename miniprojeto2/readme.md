@@ -1,0 +1,2 @@
+Oi pessoal, tudo bem?
+Aqui é mais um projeto meu, dessa vez aprendendo a usar iframes para criar uma página de anúncio de redes sociais responsiva com patinhos atrás (eu amo patos, por isso o nome do meu usuário no github é assim, não é um sobrenome) 
